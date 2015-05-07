@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.execution.desktop.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\SampleUnitTests.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\SampleUnitTests.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.abstractions.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.assert.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.core.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.abstractions.xml
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.assert.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.assert.xml
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.core.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\xunit.core.xml
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\obj\Debug\SampleUnitTests.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\obj\Debug\SampleUnitTests.dll
+c:\users\admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\obj\Debug\SampleUnitTests.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\Shouldly.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\SampleUnitTests\SampleUnitTests\bin\Debug\Shouldly.pdb
